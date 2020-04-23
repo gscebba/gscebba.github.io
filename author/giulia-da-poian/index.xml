@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giulia Da Poian | Gaetano Scebba</title>
+    <link>/author/giulia-da-poian/</link>
+      <atom:link href="/author/giulia-da-poian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giulia Da Poian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2020</copyright><lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Giulia Da Poian</title>
+      <link>/author/giulia-da-poian/</link>
+    </image>
+    
+    <item>
+      <title>Multispectral Video Fusion for Non-contact Monitoring of Respiratory Rate and Apnea</title>
+      <link>/publication/ieeetbme20_rrfusion/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ieeetbme20_rrfusion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

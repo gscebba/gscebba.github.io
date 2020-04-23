@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia Zhang | Gaetano Scebba</title>
+    <link>/author/jia-zhang/</link>
+      <atom:link href="/author/jia-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2020</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jia Zhang</title>
+      <link>/author/jia-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Covariance Intersection to Improve the Robustness of the Photoplethysmogram Derived Respiratory Rate</title>
+      <link>/publication/embc2020_rrcovariance/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/embc2020_rrcovariance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beat by Beat: Classifying Arrhythmias with Recurrent Neural Networks</title>
+      <link>/publication/cinc2017_beatbybeat/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cinc2017_beatbybeat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

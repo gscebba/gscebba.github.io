@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jelena Dragas | Gaetano Scebba</title>
+    <link>/author/jelena-dragas/</link>
+      <atom:link href="/author/jelena-dragas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jelena Dragas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2020</copyright><lastBuildDate>Tue, 11 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jelena Dragas</title>
+      <link>/author/jelena-dragas/</link>
+    </image>
+    
+    <item>
+      <title>Improving ROI detection in photoplethysmographic imaging with thermal cameras </title>
+      <link>/publication/embc2017_ppgroi/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/embc2017_ppgroi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
