@@ -7,7 +7,7 @@
     <description>Gaetano Scebba</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu6836f6db1e3932d30fbe17c1ae1ef2e5_115_512x512_fill_lanczos_center_2.png</url>
       <title>Gaetano Scebba</title>
       <link>/</link>
     </image>
@@ -77,6 +77,14 @@
     </item>
     
     <item>
+      <title>Our paper &#39;Multispectral Video Fusion for Non-contact Monitoring of Respiratory Rate and Apnea&#39; has been accepted to the IEEE TBME Journal (May 2020)</title>
+      <link>/news/tbme20_accepted/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>/news/tbme20_accepted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multispectral Video Fusion for Non-contact Monitoring of Respiratory Rate and Apnea</title>
       <link>/publication/ieeetbme20_rrfusion/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
@@ -89,6 +97,22 @@
       <link>/publication/embc2020_rrcovariance/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/embc2020_rrcovariance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper on camera-based non-contact monitoring of respiratory rate and apnea available on arXiv (April 2020)</title>
+      <link>/news/tbme20_arxiv/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/news/tbme20_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our work on a novel data fusion approach for respiratory rate estimation from PPG has been accepted to EMBC 2020 (April 2020)</title>
+      <link>/news/embc20_covrr_accepted/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/news/embc20_covrr_accepted/</guid>
       <description></description>
     </item>
     
