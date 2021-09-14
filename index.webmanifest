@@ -2,8 +2,8 @@
   "name": "Gaetano Scebba",
   "short_name": "Gaetano Scebba",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
   "icons": [{
     "src": "/images/icon_hu6836f6db1e3932d30fbe17c1ae1ef2e5_115_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
