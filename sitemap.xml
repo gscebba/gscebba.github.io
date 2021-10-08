@@ -62,10 +62,25 @@
     <loc>/news/phd_defense/</loc>
     <lastmod>2021-04-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tag/data-quality/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/digital-biomarkers/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/vitalcam/</loc>
+    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/wou/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/tbme20_accepted/</loc>
@@ -138,9 +153,6 @@
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>

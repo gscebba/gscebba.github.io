@@ -109,6 +109,7 @@
 &lt;p&gt;Cables for monitoring pulse rate. Cables for measuring breathing frequency. Cables for detecting the body temperature. Cables for quantifying the oxygen in your blood. Monitoring the health of patients requires a mass of sensors and cables. At ETH Zurich, we developed algorithms to replace all those cables with a camera-based devices.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Conventional monitoring of primary vital signs requires obtrusive contact with human body. Contact methodologies are not only &lt;strong&gt;prone to artifacts&lt;/strong&gt;, but are also &lt;strong&gt;uncomfortable for long term monitoring&lt;/strong&gt; both in clinical and home-monitoring scenarios.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;featured.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In the &lt;strong&gt;VitalCam&lt;/strong&gt; project, we developed a multisensory camera able to measure physiological signals such as heart rate, breathing frequency, blood oxygen saturation, and body temperature. Using visible and thermal cameras in conjunction with computer vision algorithms, the VitalCam watches for the tiny changes of skin color to infer the heart rate and for subtle differences of the breath temperature to determine the respiratory rate.&lt;/p&gt;
 &lt;h2 id=&#34;supervised-projects&#34;&gt;Supervised projects&lt;/h2&gt;
 &lt;ul&gt;
@@ -121,6 +122,23 @@ Cinzia Maschio (2018), Internship, ETH Zurich&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Improving Data Quality of Camera-based Respiratory Monitoring.&lt;/strong&gt;&lt;br&gt;
 Sonia Laguna Cillero (2019), Amgen Scholar, ETH Zurich&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WOU</title>
+      <link>/project/wou/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/wou/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;What is a good sign for a healing wound? To answer this question, current clinical practice mainly relies on subjective visual inspection and lacks accurate assessment of the wound healing status. In collaboration with Balgirst University Hospital and University Hospital Zurich, we developed WOU, a mobile app for intelligent and more accurate wound assessment.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Chronic wounds have large negative impact on quality of life of patients and represent a substantial economic burden to healthcare systems worldwide. Clinical assessment of chronic wounds is based on the wound visual inspection. Features such as area, depth, and colors are subjectively determined and used to assess the wound status.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;body.png&#34; alt=&#34;body.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;With the &lt;strong&gt;WOU app,&lt;/strong&gt; we developed a mHealth tool for intelligent wound monitoring. The WOU app is equipped with dedicated computer vision and machine learning algorithms to quantitatively assess important wound features and enabling not only clinicians at the hospital but also patients at home to perform &lt;strong&gt;high quality&lt;/strong&gt; wound monitoring.&lt;/p&gt;
+&lt;p&gt;Thanks to the fruitful collaboration with 
+&lt;a href=&#34;https://www.balgrist.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Balgirst University Hospital&lt;/a&gt; and 
+&lt;a href=&#34;https://www.usz.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University Hospital of Zurich&lt;/a&gt;, we conducted two clinical studies on patients with digital ulcers and diabetic foot ulcers with the aim to of evaluating the accuracy of our WOU app. Furthermore, the collected data are currently being analyzed for the investigation of potential &lt;strong&gt;digital biomarkers&lt;/strong&gt; that can help clinicians to better predict wound healing.&lt;/p&gt;
 </description>
     </item>
     

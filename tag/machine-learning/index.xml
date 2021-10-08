@@ -1,41 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Gaetano Scebba</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>machine learning | Gaetano Scebba</title>
+    <link>/tag/machine-learning/</link>
+      <atom:link href="/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2021</copyright><lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6836f6db1e3932d30fbe17c1ae1ef2e5_115_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>machine learning</title>
+      <link>/tag/machine-learning/</link>
     </image>
-    
-    <item>
-      <title>VitalCam</title>
-      <link>/project/vitalcam/</link>
-      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/project/vitalcam/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Cables for monitoring pulse rate. Cables for measuring breathing frequency. Cables for detecting the body temperature. Cables for quantifying the oxygen in your blood. Monitoring the health of patients requires a mass of sensors and cables. At ETH Zurich, we developed algorithms to replace all those cables with a camera-based devices.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Conventional monitoring of primary vital signs requires obtrusive contact with human body. Contact methodologies are not only &lt;strong&gt;prone to artifacts&lt;/strong&gt;, but are also &lt;strong&gt;uncomfortable for long term monitoring&lt;/strong&gt; both in clinical and home-monitoring scenarios.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;featured.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;In the &lt;strong&gt;VitalCam&lt;/strong&gt; project, we developed a multisensory camera able to measure physiological signals such as heart rate, breathing frequency, blood oxygen saturation, and body temperature. Using visible and thermal cameras in conjunction with computer vision algorithms, the VitalCam watches for the tiny changes of skin color to infer the heart rate and for subtle differences of the breath temperature to determine the respiratory rate.&lt;/p&gt;
-&lt;h2 id=&#34;supervised-projects&#34;&gt;Supervised projects&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Respiratory Rate Estimation using Multispectral Imaging.&lt;/strong&gt;&lt;br&gt;
-Tobias Meyer (2017) MSc, ETH Zurich&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Apnea Detection with Multispectral Cameras.&lt;/strong&gt;&lt;br&gt;
-Roman Moser (2018) MSc, ETH Zurich&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Camera-based Respiratory Monitoring.&lt;/strong&gt;&lt;br&gt;
-Cinzia Maschio (2018), Internship, ETH Zurich&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Improving Data Quality of Camera-based Respiratory Monitoring.&lt;/strong&gt;&lt;br&gt;
-Sonia Laguna Cillero (2019), Amgen Scholar, ETH Zurich&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>WOU</title>
