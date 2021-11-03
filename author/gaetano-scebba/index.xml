@@ -5,12 +5,28 @@
     <link>/author/gaetano-scebba/</link>
       <atom:link href="/author/gaetano-scebba/index.xml" rel="self" type="application/rss+xml" />
     <description>Gaetano Scebba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2021</copyright><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2021</copyright><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6836f6db1e3932d30fbe17c1ae1ef2e5_115_512x512_fill_lanczos_center_3.png</url>
       <title>Gaetano Scebba</title>
       <link>/author/gaetano-scebba/</link>
     </image>
+    
+    <item>
+      <title>Detect-and-Segment: a Deep Learning Approach to Automate Wound Image Segmentation</title>
+      <link>/publication/wou_segm_arxiv/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wou_segm_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We released a new preprint on robust wound image segmentation with deep neural networks (November 2021)</title>
+      <link>/news/wou_segm_arxiv/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/news/wou_segm_arxiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Our paper &#39;Wound Image Quality From a Mobile Health Tool for Home-Based Chronic Wound Management With Real-Time Quality Feedback Randomized Feasibility Study&#39; has been accepted to JMIR mHealth. (July 2021)</title>
