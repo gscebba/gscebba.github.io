@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2021</copyright><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2022</copyright><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6836f6db1e3932d30fbe17c1ae1ef2e5_115_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Detect-and-Segment: a Deep Learning Approach to Automate Wound Image Segmentation</title>
-      <link>/publication/wou_segm_arxiv/</link>
+      <link>/publication/wou_imu/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/wou_segm_arxiv/</guid>
+      <guid>/publication/wou_imu/</guid>
       <description></description>
     </item>
     
