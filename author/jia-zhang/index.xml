@@ -5,12 +5,20 @@
     <link>/author/jia-zhang/</link>
       <atom:link href="/author/jia-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jia Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2023</copyright><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2023</copyright><lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6836f6db1e3932d30fbe17c1ae1ef2e5_115_512x512_fill_lanczos_center_3.png</url>
       <title>Jia Zhang</title>
       <link>/author/jia-zhang/</link>
     </image>
+    
+    <item>
+      <title>A system for recording a high-quality wound image and for real-time image quality assessment</title>
+      <link>/publication/patent_eth/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/patent_eth/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detect-and-Segment: a Deep Learning Approach to Automate Wound Image Segmentation</title>
