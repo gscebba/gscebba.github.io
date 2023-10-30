@@ -5,12 +5,44 @@
     <link>/author/gaetano-scebba/</link>
       <atom:link href="/author/gaetano-scebba/index.xml" rel="self" type="application/rss+xml" />
     <description>Gaetano Scebba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2023</copyright><lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2023</copyright><lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6836f6db1e3932d30fbe17c1ae1ef2e5_115_512x512_fill_lanczos_center_3.png</url>
       <title>Gaetano Scebba</title>
       <link>/author/gaetano-scebba/</link>
     </image>
+    
+    <item>
+      <title>I presented our work on Large Language Models at BioTechX conference  (October 2023)</title>
+      <link>/news/biotechx_23/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/news/biotechx_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I held a tutorial on Foundations of ML for health data at Google Health GenAI hackathon (September 2023)</title>
+      <link>/news/tutorial_google_23/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/news/tutorial_google_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motor-cognitive dual tasking in the clinical setting: a sensitive measure of functional impairment in early Alzheimer&#39;&#39;s disease</title>
+      <link>/publication/aaic_23/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/aaic_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our analysis on motor-cognitive dual tasking in Alzheimer&#39;s disease has been presented at the Alzheimer&#39;s Association International Conference  (July 2023)</title>
+      <link>/news/aaic_abstract_23/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/news/aaic_abstract_23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A system for recording a high-quality wound image and for real-time image quality assessment</title>

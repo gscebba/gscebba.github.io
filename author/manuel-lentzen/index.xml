@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Lentzen | Gaetano Scebba</title>
+    <link>/author/manuel-lentzen/</link>
+      <atom:link href="/author/manuel-lentzen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel Lentzen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2023</copyright><lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6836f6db1e3932d30fbe17c1ae1ef2e5_115_512x512_fill_lanczos_center_3.png</url>
+      <title>Manuel Lentzen</title>
+      <link>/author/manuel-lentzen/</link>
+    </image>
+    
+    <item>
+      <title>Motor-cognitive dual tasking in the clinical setting: a sensitive measure of functional impairment in early Alzheimer&#39;&#39;s disease</title>
+      <link>/publication/aaic_23/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/aaic_23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

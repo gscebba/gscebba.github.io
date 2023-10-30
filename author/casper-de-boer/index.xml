@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casper de Boer | Gaetano Scebba</title>
+    <link>/author/casper-de-boer/</link>
+      <atom:link href="/author/casper-de-boer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Casper de Boer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Gaetano Scebba 2023</copyright><lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6836f6db1e3932d30fbe17c1ae1ef2e5_115_512x512_fill_lanczos_center_3.png</url>
+      <title>Casper de Boer</title>
+      <link>/author/casper-de-boer/</link>
+    </image>
+    
+    <item>
+      <title>Motor-cognitive dual tasking in the clinical setting: a sensitive measure of functional impairment in early Alzheimer&#39;&#39;s disease</title>
+      <link>/publication/aaic_23/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/aaic_23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
